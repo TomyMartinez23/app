@@ -3,8 +3,10 @@ const Navbar = () => {
         <header>
             <h1>E-COMMERCE</h1>
             <nav>
-                <a href="#">Link 1</a>
-                <a href="#">Link 2</a>
+                <a href="#">Inicio</a>
+                <a href="#">Productos</a>
+                <a href="#">Carrito</a>
+               
             </nav>
         </header>
     )
